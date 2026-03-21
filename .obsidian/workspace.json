@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laplace Transform.md",
+                "file": "Lap Transform/Laplace Transform.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laplace Transform.md",
+                "file": "Lap Transform/Laplace Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laplace Transform.md",
+                "file": "Lap Transform/Laplace Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laplace Transform.md",
+                "file": "Lap Transform/Laplace Transform.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +188,10 @@
   "active": "ee17c249e161ff08",
   "lastOpenFiles": [
     "CS/Intro to CS.md",
-    "Laplace Transform.md",
+    "Lap Transform/Laplace Transform.md",
+    "Lap Transform",
     "Laplace Transforms.md",
     "CS/Laplace Transform",
-    "Untitled",
     "SPAO/Welcome.md",
     "SPAO",
     "OS",
