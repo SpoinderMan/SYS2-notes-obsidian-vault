@@ -4,3 +4,9 @@
 Laplace transform is an integral transform which simplifies convolution to multiplication and allows a [[Transfer Function]] to be expressed as a simple ratio ($G(s) = \dfrac {I(s)} {O(s)}$), where I and O are LTs of input and output respectively.
 
 This is similar to a fourier transform, but laplace also covers the cases where system isnt in continuous steady oscillation, but has decay / boundless growth
+Also for oscillatory systems, the output function is different for all varying starting cases. Laplace transform allows generalising a solution for any initial conditions.
+
+
+## Inverse Laplace Transform : 
+Formula : 
+$$f(t) = \dfrac{1}{2\pi j}\int_{\sigma - j\omega}^{\sigma + j\omega}{F(s)\cdot e^{st}}$$
