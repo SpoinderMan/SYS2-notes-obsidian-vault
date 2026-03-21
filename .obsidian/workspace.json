@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Intro to CS.md",
+                "file": "Laplace Transform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to CS"
+              "title": "Laplace Transform"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Intro to CS.md",
+                "file": "Laplace Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro to CS"
+              "title": "Backlinks for Laplace Transform"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Intro to CS.md",
+                "file": "Laplace Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro to CS"
+              "title": "Outgoing links from Laplace Transform"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Intro to CS.md",
+                "file": "Laplace Transform.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to CS"
+              "title": "Outline of Laplace Transform"
             }
           }
         ]
@@ -188,6 +188,9 @@
   "active": "ee17c249e161ff08",
   "lastOpenFiles": [
     "CS/Intro to CS.md",
+    "Laplace Transform.md",
+    "Laplace Transforms.md",
+    "CS/Laplace Transform",
     "Untitled",
     "SPAO/Welcome.md",
     "SPAO",
