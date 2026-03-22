@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Intro to CS.md",
+                "file": "Block Diagrams and their simplification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to CS"
+              "title": "Block Diagrams and their simplification"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "ee17c249e161ff08",
   "lastOpenFiles": [
-    "Lap Transform/Laplace Transform.md",
     "CS/Intro to CS.md",
+    "Block Diagrams and their simplification.md",
+    "Lap Transform/Laplace Transform.md",
     "Lap Transform",
     "Laplace Transforms.md",
     "CS/Laplace Transform",
