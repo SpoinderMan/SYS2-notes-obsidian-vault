@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lap Transform/Laplace Transform.md",
+                "file": "CS/Intro to CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laplace Transform"
+              "title": "Intro to CS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lap Transform/Laplace Transform.md",
+                "file": "CS/Intro to CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Laplace Transform"
+              "title": "Backlinks for Intro to CS"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lap Transform/Laplace Transform.md",
+                "file": "CS/Intro to CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Laplace Transform"
+              "title": "Outgoing links from Intro to CS"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lap Transform/Laplace Transform.md",
+                "file": "CS/Intro to CS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laplace Transform"
+              "title": "Outline of Intro to CS"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "ee17c249e161ff08",
   "lastOpenFiles": [
-    "CS/Intro to CS.md",
     "Lap Transform/Laplace Transform.md",
+    "CS/Intro to CS.md",
     "Lap Transform",
     "Laplace Transforms.md",
     "CS/Laplace Transform",
