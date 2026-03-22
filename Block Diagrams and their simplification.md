@@ -10,5 +10,5 @@ To simplify a complex block diagram means to reduce a complex block diagram with
 
 ### Rules for simplifying a block diagram : 
 1. If two or more blocks are in series (one after another), multiply them, and conversely if they're parallel, add them (basically capacitors). 
-   ![[Block Diagrams and their simplification 2026-03-22 21.11.40.excalidraw]] 
-2. 
+   **![[Block Diagrams and their simplification 2026-03-22 21.11.40.excalidraw]]** 
+2. to move a summing point BEHIND a block, 
