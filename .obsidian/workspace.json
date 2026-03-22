@@ -219,13 +219,45 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "829b22d9250a78d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "c45ca9200d0d8b39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4204887f3a2d24e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Block Diagrams and their simplification 2026-03-22 21.11.40.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Block Diagrams and their simplification 2026-03-22 21.11.40.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "ee17c249e161ff08",
+  "active": "d4204887f3a2d24e",
   "lastOpenFiles": [
-    "Excalidraw/Block Diagrams and their simplification 2026-03-22 20.51.03.excalidraw.md",
     "Block Diagrams and their simplification.md",
+    "Excalidraw/Block Diagrams and their simplification 2026-03-22 21.11.40.excalidraw.md",
+    "Excalidraw/Block Diagrams and their simplification 2026-03-22 20.51.03.excalidraw.md",
     "transfer functions.md",
     "Lap Transform/Laplace Transform.md",
     "CS/Intro to CS.md",
