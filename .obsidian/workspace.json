@@ -185,11 +185,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "fb65b26fe08d864c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2799be999bd657ca",
+        "type": "window",
+        "children": [
+          {
+            "id": "75c81f4bfe6f2135",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf734f967d3f23cc",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Block Diagrams and their simplification 2026-03-22 20.51.03.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Block Diagrams and their simplification 2026-03-22 20.51.03.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "ee17c249e161ff08",
   "lastOpenFiles": [
-    "CS/Intro to CS.md",
+    "Excalidraw/Block Diagrams and their simplification 2026-03-22 20.51.03.excalidraw.md",
     "Block Diagrams and their simplification.md",
+    "transfer functions.md",
     "Lap Transform/Laplace Transform.md",
+    "CS/Intro to CS.md",
     "Lap Transform",
     "Laplace Transforms.md",
     "CS/Laplace Transform",
